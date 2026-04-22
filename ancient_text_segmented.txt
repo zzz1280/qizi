@@ -1,69 +1,219 @@
-全文分词结果:
-昔者()  庄周()  梦为()  胡蝶()  ，()  栩栩然()  胡蝶()  也()  ，()  自喻()
-适志()  与()  ！()  不知()  周()  也()  。()  俄然()  觉()  ，()
-则()  蘧蘧然()  周()  也()  。()  不知()  周之梦为()  胡蝶()  与()  ，()
-胡蝶()  之梦为()  周()  与()  ？()  周()  与()  胡蝶()  ，()  则()
-必有()  分()  矣()  。()  此之谓()  物化()  。()  孔子()  东游()  ，()
-见()  两()  小儿()  辩斗()  ，()  问其()  故()  。()  一儿()  曰()
-：()  我以()  日始()  出时()  去()  人近()  ，()  而()  日()  中时()
-远()  也()  。()  一儿()  以()  日()  初()  出远()  ，()  而()
-日()  中时()  近()  也()  。()  一儿()  曰()  ：()  日初()  出大如()
-车盖()  ，()  及()  日()  中()  则()  如()  盘盂()  ，()  此不为()
-远者()  小()  而()  近者()  大乎()  ？()  一儿()  曰()  ：()  日初()
-出()  沧沧凉凉()  ，()  及其()  日中()  如()  探汤()  ，()  此不为()  近者()
-热()  而()  远者()  凉乎()  ？()  孔子()  不能()  决()  也()  。()
-两()  小儿()  笑()  曰()  ：()  孰为()  汝()  多()  知乎()  ？()
-晋()  太元()  中()  ，()  武陵()  人()  捕鱼()  为业()  。()  缘溪()
-行()  ，()  忘()  路之远()  近()  。()  忽逢()  桃花林()  ，()  夹岸()
-数百步()  ，()  中无杂()  树()  ，()  芳草()  鲜美()  ，()  落英缤纷()  。()
-渔人()  甚异()  之()  ，()  复()  前行()  ，()  欲()  穷()  其林()
-。()  林尽()  水源()  ，()  便()  得()  一山()  ，()  山有()  小口()
-，()  仿佛()  若有光()  。()  便()  舍船()  ，()  从口入()  。()  初极()
-狭()  ，()  才()  通人()  。()  复行()  数十步()  ，()  豁然开朗()  。()
-土地()  平旷()  ，()  屋舍俨然()  ，()  有()  良田()  、()  美池()  、()
-桑竹()  之()  属()  。()  阡陌()  交通()  ，()  鸡犬相闻()  。()  其中()
-往来()  种作()  ，()  男女()  衣着()  ，()  悉()  如()  外人()  。()
-黄发垂髫()  ，()  并()  怡然自乐()  。()  孟子曰()  ：()  天时()  不如()  地利()
-，()  地利()  不如()  人()  和()  。()  三里()  之()  城()  ，()
-七里()  之()  郭()  ，()  环而攻()  之()  而()  不胜()  。()  夫环()
-而()  攻()  之()  ，()  必有()  得()  天时()  者()  矣()  ，()
-然而()  不()  胜者()  ，()  是()  天时()  不如()  地利()  也()  。()
-城非()  不()  高()  也()  ，()  池非()  不深()  也()  ，()  兵革()
-非()  不()  坚利()  也()  ，()  米粟非()  不()  多()  也()  ，()
-委而()  去()  之()  ，()  是()  地利()  不如()  人()  和()  也()
-。()  故曰()  ：()  域民()  不()  以()  封疆()  之界()  ，()  固国()
-不以()  山溪()  之险()  ，()  威()  天下()  不()  以()  兵革()  之()
-利()  。()  得道者()  多助()  ，()  失道者()  寡助()  。()  寡助()  之()
-至()  ，()  亲戚()  畔()  之()  。()  多助()  之()  至()  ，()
-天下()  顺之()  。()  以()  天下()  之所顺()  ，()  攻()  亲戚()  之所畔()
-，()  故()  君子()  有()  不战()  ，()  战()  必胜()  矣()  。()
-滕文公()  问()  曰()  ：()  滕()  ，()  小国()  也()  ，()  间于()
-齐楚()  。()  事齐乎()  ？()  事楚乎()  ？()  孟子()  对()  曰()  ：()
-是()  谋()  非吾所能()  及()  也()  。()  无()  已()  ，()  则()
-有()  一焉()  ：()  凿斯池()  也()  ，()  筑()  斯城()  也()  ，()
-与民守()  之()  ，()  效死()  而民弗去()  ，()  则()  是()  可()  为()
-也()  。()  太史公()  曰()  ：()  诗有()  之()  ：()  高山仰止()  ，()
-景行()  行止()  。()  虽()  不能()  至()  ，()  然()  心乡往之()  。()
-余读()  孔氏书()  ，()  想见()  其为()  人()  。()  适鲁()  ，()  观()
-仲尼()  庙堂()  车服()  礼器()  ，()  诸生()  以时()  习礼()  其家()  ，()
-余()  祗回()  留()  之()  不能()  去()  云()  。()  天下()  君王()
-至于()  贤人()  众()  矣()  ，()  当时()  则()  荣()  ，()  没则()
-已()  焉()  。()  孔子()  布衣()  ，()  传()  十余()  世()  ，()
-学者()  宗之()  。()  自()  天子()  王侯()  ，()  中国()  言()  六艺()
-者()  折中()  于()  夫子()  ，()  可谓()  至圣()  矣()  ！()  孙子()
-曰()  ：()  兵者()  ，()  国之()  大事()  ，()  死生()  之()  地()
-，()  存亡()  之道()  ，()  不可不()  察()  也()  。()  故经()  之()
-以五事()  ，()  校之以计()  ，()  而索()  其情()  ：()  一()  曰()  道()
-，()  二()  曰()  天()  ，()  三()  曰()  地()  ，()  四()
-曰()  将()  ，()  五曰法()  。()  道者()  ，()  令民()  与()  上()
-同意()  也()  ，()  故()  可以()  与()  之()  死()  ，()  可以()
-与()  之生()  ，()  而()  不畏()  危()  。()  天者()  ，()  阴阳()
-、()  寒暑()  、()  时制()  也()  。()  地者()  ，()  远近()  、()
-险易()  、()  广狭()  、()  死生()  也()  。()  将者()  ，()  智()
-、()  信()  、()  仁()  、()  勇()  、()  严()  也()  。()
-法者()  ，()  曲制()  、()  官道()  、()  主用()  也()  。()  凡此()
-五者()  ，()  将()  莫不()  闻()  ，()  知之者()  胜()  ，()  不知者()
-不胜()  。()  故()  校之以计()  ，()  而索()  其情()  ，()  曰()  ：()
-主孰有()  道()  ？()  将()  孰()  有()  能()  ？()  天地()  孰得()
-？()  法令()  孰行()  ？()  兵众()  孰强()  ？()  士卒()  孰练()  ？()
-赏罚()  孰明()  ？()  吾()  以此()  知()  胜负()  矣()  。()
+句子 1:
+昔者(PROPN)  庄周(PROPN)  梦为(VERB)  胡蝶(PROPN)  ，(PUNCT)  栩栩然(NOUN)  胡蝶(PROPN)  也(PART)  ，(PUNCT)  自喻适志(NOUN)
+与(PART)  ！(PUNCT)
+
+句子 2:
+不知(VERB)  周(PROPN)  也(PART)  。(PUNCT)
+
+句子 3:
+俄然觉(NOUN)  ，(PUNCT)  则(ADV)  蘧蘧然(NOUN)  周(PROPN)  也(PART)  。(PUNCT)
+
+句子 4:
+不知(VERB)  周之(PROPN)  梦为(VERB)  胡蝶(PROPN)  与(PART)  ，(PUNCT)  胡蝶(PROPN)  之(PART)  梦为(VERB)  周(PROPN)
+与(PART)  ？(PUNCT)
+
+句子 5:
+周(PROPN)  与(PART)  胡蝶(PROPN)  ，(PUNCT)  则(ADV)  必有(NOUN)  分(NUM)  矣(PART)  。(PUNCT)
+
+句子 6:
+此之谓(NOUN)  物化(NOUN)  。(PUNCT)
+
+句子 7:
+孔子(PROPN)  东游(VERB)  ，(PUNCT)  见(VERB)  两小儿(NOUN)  辩斗(VERB)  ，(PUNCT)  问其(NOUN)  故(CCONJ)  。(PUNCT)
+
+句子 8:
+一儿(NUM)  曰(VERB)  ：(PUNCT)  我以(NOUN)  日始出(NOUN)  时去(NOUN)  人近(NOUN)  ，(PUNCT)  而(CCONJ)  日中(NOUN)
+时远(ADV)  也(PART)  。(PUNCT)
+
+句子 9:
+一儿(NUM)  以(ADP)  日初出(NOUN)  远(ADJ)  ，(PUNCT)  而(CCONJ)  日中(NOUN)  时近(NOUN)  也(PART)  。(PUNCT)
+
+句子 10:
+一儿(NUM)  曰(VERB)  ：(PUNCT)  日初出(NOUN)  大如(NOUN)  车盖(NOUN)  ，(PUNCT)  及(CCONJ)  日中(NOUN)  则(ADV)
+如(VERB)  盘盂(NOUN)  ，(PUNCT)  此不为(PROPN)  远者(NOUN)  小(ADJ)  而(CCONJ)  近者(NOUN)  大乎(ADV)  ？(PUNCT)
+
+句子 11:
+一儿(NUM)  曰(VERB)  ：(PUNCT)  日初出(NOUN)  沧沧凉凉(NOUN)  ，(PUNCT)  及其(CCONJ)  日中(NOUN)  如(VERB)  探汤(VERB)
+，(PUNCT)  此不为(PROPN)  近者(NOUN)  热(ADJ)  而(CCONJ)  远者(NOUN)  凉乎(NOUN)  ？(PUNCT)
+
+句子 12:
+孔子(PROPN)  不能(VERB)  决(ADV)  也(PART)  。(PUNCT)
+
+句子 13:
+两小儿(NOUN)  笑(VERB)  曰(VERB)  ：(PUNCT)  孰为(NOUN)  汝(PRON)  多知(ADJ)  乎(PART)  ？(PUNCT)
+
+句子 14:
+晋(PROPN)  太元(NOUN)  中(NOUN)  ，(PUNCT)  武陵人(NOUN)  捕鱼(VERB)  为业(NOUN)  。(PUNCT)
+
+句子 15:
+缘溪(VERB)  行(VERB)  ，(PUNCT)  忘路(VERB)  之(PART)  远近(NOUN)  。(PUNCT)
+
+句子 16:
+忽逢(VERB)  桃花林(PROPN)  ，(PUNCT)  夹岸(VERB)  数百步(NUM)  ，(PUNCT)  中(NOUN)  无(VERB)  杂树(NOUN)  ，(PUNCT)
+芳草(NOUN)  鲜美(ADJ)  ，(PUNCT)  落英缤纷(NOUN)  。(PUNCT)
+
+句子 17:
+渔人(NOUN)  甚异(NOUN)  之(PART)  ，(PUNCT)  复(ADV)  前行(VERB)  ，(PUNCT)  欲(ADV)  穷(NOUN)  其林(NOUN)
+。(PUNCT)
+
+句子 18:
+林尽(PROPN)  水源(NOUN)  ，(PUNCT)  便(ADV)  得(VERB)  一山(NOUN)  ，(PUNCT)  山有(NOUN)  小口(NOUN)  ，(PUNCT)
+仿佛(ADV)  若有光(PROPN)  。(PUNCT)
+
+句子 19:
+便(ADV)  舍船(VERB)  ，(PUNCT)  从口入(PROPN)  。(PUNCT)
+
+句子 20:
+初(ADV)  极狭(ADJ)  ，(PUNCT)  才(ADV)  通人(NOUN)  。(PUNCT)
+
+句子 21:
+复行(VERB)  数十步(NUM)  ，(PUNCT)  豁然开朗(NOUN)  。(PUNCT)
+
+句子 22:
+土地(NOUN)  平旷(ADJ)  ，(PUNCT)  屋舍俨然(NOUN)  ，(PUNCT)  有(VERB)  良田(NOUN)  、(PUNCT)  美池(NOUN)  、(PUNCT)
+桑竹(NOUN)  之属(NOUN)  。(PUNCT)
+
+句子 23:
+阡陌(NOUN)  交通(NOUN)  ，(PUNCT)  鸡犬相闻(NOUN)  。(PUNCT)
+
+句子 24:
+其中(PRON)  往来(NOUN)  种作(VERB)  ，(PUNCT)  男女(NOUN)  衣着(NOUN)  ，(PUNCT)  悉(ADV)  如(VERB)  外人(NOUN)
+。(PUNCT)
+
+句子 25:
+黄发垂髫(NOUN)  ，(PUNCT)  并(ADV)  怡然自乐(NOUN)  。(PUNCT)
+
+句子 26:
+孟子曰(PROPN)  ：(PUNCT)  天时不如地利(NOUN)  ，(PUNCT)  地利不如人和(NOUN)  。(PUNCT)
+
+句子 27:
+三里(NUM)  之(PART)  城(NOUN)  ，(PUNCT)  七里(NUM)  之(PART)  郭(PROPN)  ，(PUNCT)  环而攻之(NOUN)  而(CCONJ)
+不胜(VERB)  。(PUNCT)
+
+句子 28:
+夫(PRON)  环而攻之(NOUN)  ，(PUNCT)  必有(NOUN)  得(VERB)  天时(NOUN)  者(PART)  矣(PART)  ，(PUNCT)  然而(CCONJ)
+不(ADV)  胜者(NOUN)  ，(PUNCT)  是(PRON)  天时不如地利(NOUN)  也(PART)  。(PUNCT)
+
+句子 29:
+城非(PROPN)  不(ADV)  高(ADJ)  也(PART)  ，(PUNCT)  池非(PROPN)  不深(NOUN)  也(PART)  ，(PUNCT)  兵革(NOUN)
+非(ADV)  不(ADV)  坚利(ADJ)  也(PART)  ，(PUNCT)  米粟(NOUN)  非不多(NOUN)  也(PART)  ，(PUNCT)  委而去之(NOUN)
+，(PUNCT)  是(PRON)  地利不如人和(NOUN)  也(PART)  。(PUNCT)
+
+句子 30:
+故曰(CCONJ)  ：(PUNCT)  域民(VERB)  不(ADV)  以(ADP)  封疆(NOUN)  之界(PRON)  ，(PUNCT)  固国(VERB)  不(ADV)
+以(ADP)  山溪(NOUN)  之险(NOUN)  ，(PUNCT)  威天下(VERB)  不(ADV)  以(ADP)  兵革(NOUN)  之(PART)  利(NOUN)
+。(PUNCT)
+
+句子 31:
+得道者多助(NOUN)  ，(PUNCT)  失道者寡助(NOUN)  。(PUNCT)
+
+句子 32:
+寡助(VERB)  之(PART)  至(VERB)  ，(PUNCT)  亲戚(NOUN)  畔(NOUN)  之(PART)  。(PUNCT)
+
+句子 33:
+多助(NOUN)  之(PART)  至(VERB)  ，(PUNCT)  天下(PROPN)  顺之(ADP)  。(PUNCT)
+
+句子 34:
+以(ADP)  天下(PROPN)  之所顺(PROPN)  ，(PUNCT)  攻(VERB)  亲戚(NOUN)  之所畔(PROPN)  ，(PUNCT)  故(CCONJ)  君子(NOUN)
+有(VERB)  不战(VERB)  ，(PUNCT)  战(VERB)  必胜(VERB)  矣(PART)  。(PUNCT)
+
+句子 35:
+滕文公(PROPN)  问(VERB)  曰(VERB)  ：(PUNCT)  滕(PROPN)  ，(PUNCT)  小国(PROPN)  也(PART)  ，(PUNCT)  间于(NOUN)
+齐楚(ADJ)  。(PUNCT)
+
+句子 36:
+事齐乎(PROPN)  ？(PUNCT)
+
+句子 37:
+事楚乎(PROPN)  ？(PUNCT)
+
+句子 38:
+孟子(PROPN)  对(VERB)  曰(VERB)  ：(PUNCT)  是(PRON)  谋(NOUN)  非吾所能(PROPN)  及(CCONJ)  也(PART)  。(PUNCT)
+
+句子 39:
+无(VERB)  已(ADV)  ，(PUNCT)  则(ADV)  有(VERB)  一焉(NOUN)  ：(PUNCT)  凿斯(VERB)  池(NOUN)  也(PART)
+，(PUNCT)  筑斯(VERB)  城(NOUN)  也(PART)  ，(PUNCT)  与民守(PROPN)  之(PART)  ，(PUNCT)  效死(VERB)  而民弗去(PROPN)
+，(PUNCT)  则(ADV)  是(PRON)  可(NOUN)  为(VERB)  也(PART)  。(PUNCT)
+
+句子 40:
+太史公(PROPN)  曰(VERB)  ：(PUNCT)  诗有(NOUN)  之(PART)  ：(PUNCT)  高山仰止(NOUN)  ，(PUNCT)  景行行止(NOUN)  。(PUNCT)
+
+句子 41:
+虽(CCONJ)  不能(VERB)  至(VERB)  ，(PUNCT)  然(CCONJ)  心乡往之(NOUN)  。(PUNCT)
+
+句子 42:
+余读(NOUN)  孔氏(PROPN)  书(NOUN)  ，(PUNCT)  想见(VERB)  其为(NOUN)  人(NOUN)  。(PUNCT)
+
+句子 43:
+适鲁(VERB)  ，(PUNCT)  观(VERB)  仲尼(PROPN)  庙堂(NOUN)  车服(NOUN)  礼器(NOUN)  ，(PUNCT)  诸生(NOUN)  以时(CCONJ)
+习礼(VERB)  其(PRON)  家(NUM)  ，(PUNCT)  余(NUM)  祗回(VERB)  留(VERB)  之(PART)  不能(VERB)  去(VERB)
+云(VERB)  。(PUNCT)
+
+句子 44:
+天下(PROPN)  君王(NOUN)  至于(ADP)  贤人(NOUN)  众(NOUN)  矣(PART)  ，(PUNCT)  当时(NOUN)  则(ADV)  荣(VERB)
+，(PUNCT)  没则(NOUN)  已(ADV)  焉(PART)  。(PUNCT)
+
+句子 45:
+孔子(PROPN)  布衣(NOUN)  ，(PUNCT)  传(VERB)  十余(NUM)  世(NOUN)  ，(PUNCT)  学者(NOUN)  宗之(PROPN)  。(PUNCT)
+
+句子 46:
+自(ADP)  天子(NOUN)  王侯(NOUN)  ，(PUNCT)  中国(PROPN)  言(VERB)  六艺(NOUN)  者(PART)  折中(VERB)  于(ADP)
+夫子(NOUN)  ，(PUNCT)  可谓(VERB)  至圣(PROPN)  矣(PART)  ！(PUNCT)
+
+句子 47:
+孙子(PROPN)  曰(VERB)  ：(PUNCT)  兵者(NOUN)  ，(PUNCT)  国之(NOUN)  大事(NOUN)  ，(PUNCT)  死生(NOUN)  之地(NOUN)
+，(PUNCT)  存亡(NOUN)  之道(NOUN)  ，(PUNCT)  不可不察(NOUN)  也(PART)  。(PUNCT)
+
+句子 48:
+故经(ADV)  之(PART)  以五事(PROPN)  ，(PUNCT)  校之(VERB)  以计(NOUN)  ，(PUNCT)  而(CCONJ)  索其(VERB)  情(NOUN)
+：(PUNCT)  一(NUM)  曰(VERB)  道(NOUN)  ，(PUNCT)  二(NUM)  曰(VERB)  天(NOUN)  ，(PUNCT)  三(NUM)
+曰(VERB)  地(NOUN)  ，(PUNCT)  四(NUM)  曰(VERB)  将(ADV)  ，(PUNCT)  五曰法(PROPN)  。(PUNCT)
+
+句子 49:
+道者(NOUN)  ，(PUNCT)  令民(NOUN)  与(PART)  上(NOUN)  同意(ADV)  也(PART)  ，(PUNCT)  故(CCONJ)  可以(CCONJ)
+与(PART)  之(PART)  死(VERB)  ，(PUNCT)  可以(CCONJ)  与(PART)  之生(NOUN)  ，(PUNCT)  而(CCONJ)  不畏(VERB)
+危(VERB)  。(PUNCT)
+
+句子 50:
+天者(NOUN)  ，(PUNCT)  阴阳(NOUN)  、(PUNCT)  寒暑(NOUN)  、(PUNCT)  时制(NOUN)  也(PART)  。(PUNCT)
+
+句子 51:
+地者(NOUN)  ，(PUNCT)  远近(NOUN)  、(PUNCT)  险易(NOUN)  、(PUNCT)  广狭(NOUN)  、(PUNCT)  死生(NOUN)  也(PART)
+。(PUNCT)
+
+句子 52:
+将者(NOUN)  ，(PUNCT)  智(NOUN)  、(PUNCT)  信(ADV)  、(PUNCT)  仁(NOUN)  、(PUNCT)  勇(NOUN)  、(PUNCT)
+严(ADJ)  也(PART)  。(PUNCT)
+
+句子 53:
+法者(NOUN)  ，(PUNCT)  曲制(NOUN)  、(PUNCT)  官道(NOUN)  、(PUNCT)  主用(NOUN)  也(PART)  。(PUNCT)
+
+句子 54:
+凡此(ADV)  五者(NOUN)  ，(PUNCT)  将(ADV)  莫不(ADV)  闻(VERB)  ，(PUNCT)  知之者(NOUN)  胜(VERB)  ，(PUNCT)
+不知者(NOUN)  不胜(VERB)  。(PUNCT)
+
+句子 55:
+故(CCONJ)  校之(VERB)  以计(NOUN)  ，(PUNCT)  而(CCONJ)  索其(VERB)  情(NOUN)  ，(PUNCT)  曰(VERB)  ：(PUNCT)
+主孰有(PROPN)  道(NOUN)  ？(PUNCT)
+
+句子 56:
+将(ADV)  孰(PRON)  有(VERB)  能(VERB)  ？(PUNCT)
+
+句子 57:
+天地(NOUN)  孰得(NOUN)  ？(PUNCT)
+
+句子 58:
+法令(NOUN)  孰行(NOUN)  ？(PUNCT)
+
+句子 59:
+兵众(NOUN)  孰强(NOUN)  ？(PUNCT)
+
+句子 60:
+士卒(NOUN)  孰练(NOUN)  ？(PUNCT)
+
+句子 61:
+赏罚(NOUN)  孰明(NOUN)  ？(PUNCT)
+
+句子 62:
+吾(PRON)  以此(CCONJ)  知(VERB)  胜负(NOUN)  矣(PART)  。(PUNCT)
+
